@@ -1,0 +1,1 @@
+﻿GRANT USAGE ON SCHEMA TO pub_user;

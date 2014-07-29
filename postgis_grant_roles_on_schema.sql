@@ -1,0 +1,1 @@
+﻿GRANT SELECT ON ALL TABLES IN SCHEMA mapdata TO pub_user;
